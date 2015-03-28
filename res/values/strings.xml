@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello, Welcome To WalkComm!</string>
+    <string name="app_name">WalkComm</string>
+    <string name="Recording">Android Audio Recording Application</string>
+   <string name="start">start</string>
+   <string name="stop">stop</string>
+   <string name="play">play</string>
+   <string name="logo">WalkComm</string>
+
+</resources>
